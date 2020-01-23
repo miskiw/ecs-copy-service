@@ -18,6 +18,7 @@
   "author": "Mike Iskiw",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.96.0"
+    "aws-sdk": "^2.96.0",
+    "minimist": "^1.2.0"
   }
 }
